@@ -23,6 +23,8 @@
     </style>
 </head>
 <body>
-    <img src="KDubarry_CV.pdf" alt="Katie's CV">
+    <img src="KDubarry_CV1.jpg" alt="Katie's CV page 1">
+    <img src="KDubarry_CV.2jpg" alt="Katie's CV page 2">
+
 </body>
 </html>
