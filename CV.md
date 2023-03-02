@@ -24,7 +24,7 @@
 </head>
 <body>
     <img src="KDubarry_CV1.jpg" alt="Katie's CV page 1">
-    <img src="KDubarry_CV.2jpg" alt="Katie's CV page 2">
+    <img src="KDubarry_CV2.jpg" alt="Katie's CV page 2">
 
 </body>
 </html>
